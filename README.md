@@ -13,9 +13,9 @@ Assignment for XITLAN Team d.o.o. in Windows Forms App (C#).
 * Holidays colorized BLUE (overriding Sundays) 
 * Ability to close the app
 
-  ## Important paths
+## Important paths
   
-  * .exe file
-  Path: `../EnostavenKoledar/bin/Debug/EnostavenKoledar.exe`
-  * prazniki.txt
-  Path: `../EnostavenKoledar/bin/prazniki.txt`
+* .exe file
+Path: `../EnostavenKoledar/bin/Debug/EnostavenKoledar.exe`
+* prazniki.txt
+Path: `../EnostavenKoledar/bin/prazniki.txt`
