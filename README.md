@@ -11,6 +11,7 @@ Assignment for XITLAN Team d.o.o. in Windows Forms App (C#).
 * Sundays colorized ORANGE
 * Holiday input via `prazniki.txt` file 
 * Holidays colorized BLUE (overriding Sundays) 
+* Ability to close the app
 
   ## Important paths
   
