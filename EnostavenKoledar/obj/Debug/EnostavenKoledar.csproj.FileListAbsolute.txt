@@ -1,0 +1,15 @@
+C:\Users\guide\source\repos\EnostavenKoledar\EnostavenKoledar\bin\Debug\EnostavenKoledar.exe.config
+C:\Users\guide\source\repos\EnostavenKoledar\EnostavenKoledar\bin\Debug\EnostavenKoledar.exe
+C:\Users\guide\source\repos\EnostavenKoledar\EnostavenKoledar\bin\Debug\EnostavenKoledar.pdb
+C:\Users\guide\source\repos\EnostavenKoledar\EnostavenKoledar\obj\Debug\EnostavenKoledar.csproj.AssemblyReference.cache
+C:\Users\guide\source\repos\EnostavenKoledar\EnostavenKoledar\obj\Debug\EnostavenKoledar.csproj.SuggestedBindingRedirects.cache
+C:\Users\guide\source\repos\EnostavenKoledar\EnostavenKoledar\obj\Debug\EnostavenKoledar.App.resources
+C:\Users\guide\source\repos\EnostavenKoledar\EnostavenKoledar\obj\Debug\EnostavenKoledar.Properties.Resources.resources
+C:\Users\guide\source\repos\EnostavenKoledar\EnostavenKoledar\obj\Debug\EnostavenKoledar.csproj.GenerateResource.cache
+C:\Users\guide\source\repos\EnostavenKoledar\EnostavenKoledar\obj\Debug\EnostavenKoledar.csproj.CoreCompileInputs.cache
+C:\Users\guide\source\repos\EnostavenKoledar\EnostavenKoledar\obj\Debug\EnostavenKoledar.exe
+C:\Users\guide\source\repos\EnostavenKoledar\EnostavenKoledar\obj\Debug\EnostavenKoledar.pdb
+C:\Users\guide\source\repos\EnostavenKoledar\EnostavenKoledar\obj\Debug\EnostavenKoledar.UserControlBlank.resources
+C:\Users\guide\source\repos\EnostavenKoledar\EnostavenKoledar\obj\Debug\EnostavenKoledar.UserControlDays.resources
+C:\Users\guide\source\repos\EnostavenKoledar\EnostavenKoledar\bin\Debug\Newtonsoft.Json.dll
+C:\Users\guide\source\repos\EnostavenKoledar\EnostavenKoledar\obj\Debug\EnostavenKoledar.csproj.CopyComplete
