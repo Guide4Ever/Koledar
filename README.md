@@ -4,7 +4,7 @@ Assignment for XITLAN Team d.o.o. in Windows Forms App (C#).
 
 ## Functionalities
 
-* Calendar (control & interface) + header (<current Month>, <current Year>)
+* Calendar (control & interface) + header ( "current Month, current Year")
 * Month selection (via Combobox)
 * Year input (via Input/Textbox)
 * Date input (via Input/Textbox)
