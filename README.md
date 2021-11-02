@@ -16,6 +16,6 @@ Assignment for XITLAN Team d.o.o. in Windows Forms App (C#).
 ## Important paths
   
 * .exe file
- * Path: `../EnostavenKoledar/bin/Debug/EnostavenKoledar.exe`
+    * Path: `../EnostavenKoledar/bin/Debug/EnostavenKoledar.exe`
 * prazniki.txt
- * Path: `../EnostavenKoledar/bin/prazniki.txt`
+   * Path: `../EnostavenKoledar/bin/prazniki.txt`
